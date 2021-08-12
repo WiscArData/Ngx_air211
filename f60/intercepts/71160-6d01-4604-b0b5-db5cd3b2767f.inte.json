@@ -1,14 +1,22 @@
 {
     "Ar36": {
-        "error": 4.0371411239227593e-07,
+        "error": 3.9820379091303724e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
-        "fit": "linear",
-        "value": 8.481803728995178e-05
+        "fit": "parabolic",
+        "fn": 71,
+        "include_baseline_error": false,
+        "n": 71,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 8.775150266803657e-05
     },
     "Ar36L4": {
         "error": 1.7047604439304555e-07,
@@ -22,15 +30,26 @@
         "value": 8.43868794981727e-05
     },
     "Ar37": {
-        "error": 1.9082645331282726e-07,
+        "error": 2.890793460451359e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
-        "fit": "linear",
-        "value": -9.222374664963944e-06
+        "fit": "parabolic",
+        "fn": 69,
+        "include_baseline_error": false,
+        "n": 71,
+        "outlier_excluded": [
+            69,
+            61
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -9.364975784744126e-06
     },
     "Ar37L2": {
         "error": 2.1468324378740365e-07,
@@ -44,15 +63,23 @@
         "value": -9.668403273095239e-06
     },
     "Ar38": {
-        "error": 2.000888462310883e-07,
+        "error": 3.440288411520017e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
-        "fit": "linear",
-        "value": 3.0512630125048376e-06
+        "fit": "parabolic",
+        "fn": 71,
+        "include_baseline_error": false,
+        "n": 71,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 3.3304673166187272e-06
     },
     "Ar38Ax": {
         "error": 2.8457675584627687e-07,
@@ -66,15 +93,23 @@
         "value": 6.986980873310013e-06
     },
     "Ar39": {
-        "error": 7.907149846630931e-07,
+        "error": 3.518024365071042e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
-        "fit": "linear",
-        "value": 2.2920826915608023e-06
+        "fit": "parabolic",
+        "fn": 71,
+        "include_baseline_error": false,
+        "n": 71,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -5.899325501169848e-06
     },
     "Ar39H2": {
         "error": 1.167343018826512e-06,
@@ -88,15 +123,23 @@
         "value": 3.3315927026745415e-06
     },
     "Ar40": {
-        "error": 1.0463247647478714e-05,
+        "error": 1.1373363010425978e-05,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
         "fit": "parabolic",
-        "value": 0.025664619106164306
+        "fn": 71,
+        "include_baseline_error": false,
+        "n": 71,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.025683556742659517
     },
     "Ar40H4": {
         "error": 1.3662590612475148e-05,
