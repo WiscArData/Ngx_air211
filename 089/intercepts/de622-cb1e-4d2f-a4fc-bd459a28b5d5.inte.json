@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 3.7841697944017663e-07,
+        "error": 4.831537353378746e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": true
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 71,
         "include_baseline_error": false,
         "n": 71,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 9.384298507921645e-05
+        "value": 8.993955846658638e-05
     },
     "Ar36L4": {
         "error": 1.7968589896062103e-07,
